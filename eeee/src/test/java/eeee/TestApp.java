@@ -1,7 +1,7 @@
 package eeee;
 import org.testng.annotations.BeforeClass;
 import org.testng.annotations.Test;
-public class AppTest
+public class TestApp
 {
 
 
